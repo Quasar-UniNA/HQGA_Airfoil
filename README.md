@@ -1,4 +1,4 @@
-# HQGA Airfoil Shape Optimization
+# HQGA for Airfoil Shape Optimization
 
 This repository contains the source code used to perform the experiments presented in the paper:
 
