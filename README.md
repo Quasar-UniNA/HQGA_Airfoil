@@ -9,7 +9,7 @@ The code integrates the Hybrid Quantum Genetic Algorithm (HQGA) with **XFOIL** f
 The experiment must be executed from the directory containing:
 
 ```text
-run_experiment.py
+HQGA_Airfoil_Script.py
 run_xfoil.sh
 NACA0012.dat (optional)
 rae2822.dat (optional)
