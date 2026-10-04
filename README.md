@@ -17,6 +17,8 @@ rae2822.dat (optional)
 
 The files `eval_obj.in` and `eval_obj.out` are generated automatically during execution and do not need to be provided beforehand.
 
+The script is expected to be executed in Linux or Windows Subsystem for Linux (WSL).
+
 ## Airfoil Selection
 
 The airfoil can be selected using the `AIRFOIL` variable in the Python script:
